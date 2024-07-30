@@ -12,5 +12,5 @@ package «minif2f» where
 --   "https://github.com/leanprover-community/mathlib4.git"
 
 @[default_target]
-lean_lib «Minif2f» where
+lean_lib «test» where
   -- add any library configuration options here

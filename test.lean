@@ -1,31 +1,31 @@
-import Mathlib.Algebra.Algebra.Basic
-import Mathlib.Algebra.Associated.Basic
-import Mathlib.Algebra.Group.Pi.Basic
-import Mathlib.Algebra.Group.Commute.Basic
-import Mathlib.Analysis.Asymptotics.AsymptoticEquivalent
-import Mathlib.Analysis.MeanInequalities
-import Mathlib.Analysis.NormedSpace.PiLp
-import Mathlib.Analysis.SpecialFunctions.Exp
-import Mathlib.Analysis.SpecialFunctions.ExpDeriv
-import Mathlib.Analysis.SpecialFunctions.Log.Basic
-import Mathlib.Analysis.SpecialFunctions.Log.Deriv
-import Mathlib.Analysis.SpecialFunctions.Pow.Real
-import Mathlib.Analysis.SpecialFunctions.Sqrt
-import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
-import Mathlib.Analysis.SpecialFunctions.Trigonometric.Complex
-import Mathlib.Combinatorics.SimpleGraph.Basic
-import Mathlib.Data.list.intervals
-import Mathlib.Data.Real.GoldenRatio
-import Mathlib.geometry.euclidean.MongePoint
-import Mathlib.init.data.nat.gcd
-import Mathlib.LinearAlgebra.AffineSpace.AffineMap
-import Mathlib.LinearAlgebra.AffineSpace.ordered
-import Mathlib.LinearAlgebra.FiniteDimensional
-import Mathlib.NumberTheory.ArithmeticFunction
-import Mathlib.NumberTheory.LegendreSymbol.QuadraticReciprocity
-import Mathlib.NumberTheory.PrimesCongruentOne
-import Mathlib.Order.Bounded
-import Mathlib.Order.WellFounded
+-- import Mathlib.Algebra.Algebra.Basic
+-- import Mathlib.Algebra.Associated.Basic
+-- import Mathlib.Algebra.Group.Pi.Basic
+-- import Mathlib.Algebra.Group.Commute.Basic
+-- import Mathlib.Analysis.Asymptotics.AsymptoticEquivalent
+-- import Mathlib.Analysis.MeanInequalities
+-- import Mathlib.Analysis.NormedSpace.PiLp
+-- import Mathlib.Analysis.SpecialFunctions.Exp
+-- import Mathlib.Analysis.SpecialFunctions.ExpDeriv
+-- import Mathlib.Analysis.SpecialFunctions.Log.Basic
+-- import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+-- import Mathlib.Analysis.SpecialFunctions.Pow.Real
+-- import Mathlib.Analysis.SpecialFunctions.Sqrt
+-- import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+-- import Mathlib.Analysis.SpecialFunctions.Trigonometric.Complex
+-- import Mathlib.Combinatorics.SimpleGraph.Basic
+-- import Mathlib.Data.list.intervals
+-- import Mathlib.Data.Real.GoldenRatio
+-- import Mathlib.geometry.euclidean.MongePoint
+-- import Mathlib.init.data.nat.gcd
+-- import Mathlib.LinearAlgebra.AffineSpace.AffineMap
+-- import Mathlib.LinearAlgebra.AffineSpace.ordered
+-- import Mathlib.LinearAlgebra.FiniteDimensional
+-- import Mathlib.NumberTheory.ArithmeticFunction
+-- import Mathlib.NumberTheory.LegendreSymbol.QuadraticReciprocity
+-- import Mathlib.NumberTheory.PrimesCongruentOne
+-- import Mathlib.Order.Bounded
+-- import Mathlib.Order.WellFounded
 
 theorem mathd_algebra_478
   (b h v : ℝ)
